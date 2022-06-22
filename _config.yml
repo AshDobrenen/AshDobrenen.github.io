@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michele C. Weigle @ ODU"
+title                    : "Ash Dobrenen @ VWU"
 title_separator          : "-"
-name                     : &name "Michele C. Weigle"
-description              : &description "Professor of Computer Science"
-url                      : https://weiglemc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Anna 'Ash' Dobrenen"
+description              : &description "Student Working on Bachelors of Computer Science"
+url                      : https://AshDobrenen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weiglemc/weiglemc.github.io"
+repository               : "AshDobrenen/AshDobrenen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "weiglemc"
+  username               : "Kat9951"
 facebook:
   username               :
   app_id                 :
@@ -80,37 +80,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Michele C. Weigle"
+  name             : "Anna 'Ash' Dobrenen"
   avatar           : "mweigle-ODU.jpg"
-  bio              : "Professor of Computer Science"
-  location         : "Norfolk, VA"
-  employer         : "Old Dominion University"
-  employeruri      : "https://www.odu.edu"
+  bio              : "Student for a Bachelors in Computer Science"
+  location         : "Virginia Beach, VA"
+  employer         : "Virginia Wesleyan University"
+  employeruri      : "https://www.vwu.edu"
   pubmed           : 
-  googlescholar    : "http://scholar.google.com/citations?user=MOLPTqcAAAAJ&hl=en"
-  email            : "mweigle at cs dot odu dot edu"
+  googlescholar    : 
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.cs.odu.edu/~mweigle/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weiglemc"
+  github           : "AshDobrenen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "michele-weigle-559b052"
-  orcid            : "http://orcid.org/0000-0002-2787-7166"
+  linkedin         : "anna-dobrenen-b30759218"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "weiglemc"
+  twitter          : "Kat9951"
   vine             :
   weibo            :
   xing             :
