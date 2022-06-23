@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anna 'Ash' Dobrenen"
-  avatar           : "ProfilepicAsh.jpg"
+  avatar           : "https://AshDobrenen.github.io/ProfilepicAsh.jpg"
   bio              : "Student for a Bachelors in Computer Science"
   location         : "Virginia Beach, VA"
   employer         : "VWU"
