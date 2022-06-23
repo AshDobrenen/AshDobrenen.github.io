@@ -11,4 +11,4 @@ twitter-color: "#55acee"
 github-color: "#171516"
 blogger-color: "#F37100"
 ---
-I am a Professor of Computer Science at Old Dominion University, where I've been on faculty since 2006.  For an overview of my research direction for the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018. I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit about my background and experiences as a woman in computer science. (For more information, see my [bio](#bio).)
+I am a student at Virginia Wesleyan University working on my Bachelors of Science in Computer Science, where I will be graduating from in 2022. I have learned Java, C++, Python, HTML, PHP, MySQL, and many other programming languages there. I have had an internship in Security Engineering with CVS/Aetna, and am currently participating in an REU program for Computer Science at Old Dominion University. My Resume in linked below.
